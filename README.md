@@ -37,7 +37,6 @@ As an AI Agent builder, I prioritize security and robustness:
 ### 📬 Connect with Me
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rohit-mishra-7b333b99/)
-- 👨‍💻 [GitHub Profile](https://github.com/suit3rurb)
 
 ---
 
